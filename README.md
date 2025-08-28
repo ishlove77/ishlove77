@@ -12,6 +12,8 @@
 </details>
 <details>
     <summary><h4>Honors</h4></summary>
-    <li> Kwanjeong Educational Foundation Scholarship  </li>
-    <li> Seoul National University Semiconductor Specialization College Scholarship  </li>
+    <ul>
+    <li> Kwanjeong Educational Foundation Scholarship <strong>$5,000 / semester</strong></li>
+    <li> Seoul National University Semiconductor Specialization College Scholarship <strong>$10,000</strong></li>
+    </ul>
 </details>
