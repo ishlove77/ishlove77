@@ -1,7 +1,7 @@
 ### About Me
 - 💻 CSE undergraduate student (2021~)
-- 🙂 Interested in ML/DL, Web dev
-- Served in [ROKAF](https://rokaf.airforce.mil.kr/sites/airforce/index.do) (2022.04.25~2024.01.24)
+- 🙂 Interested in ML/DL
+- Served in [ROKAF](https://rokaf.airforce.mil.kr/sites/airforce/index.do) (2023.04.24~2025.01.23)
 <details>
     <summary><h4>Awards</h4></summary>
     <ul>
