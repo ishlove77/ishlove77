@@ -5,9 +5,10 @@
 <details>
     <summary><h4>Awards</h4></summary>
     <ul>
-      <li><strong>1st</strong> in 2024 Hackathon (With Seoul City) 1st Prize(Seoul Metropolitan City Mayor) (Team Member) </li>
-      <li><strong>2nd</strong> in 2023 <a href="https://maicon.kr/">MAICON</a>(Military AI Competition), as team 'RokafNet' (Team Member) (<a href="https://github.com/RokafNet/rokafnet">model repo</a>)</li>
-      <li><strong>1st</strong> in 2023 Air Force Information Contest AI/Big Data Field 1st Prize(Chief-of-staff) (Team Member) </li>
+      <li><strong>1st</strong> in 2023 Air Force Information Contest AI/Big Data Field 1st Prize(Chief-of-staff) </li>
+      <li><strong>2nd</strong> in 2023 <a href="https://maicon.kr/">MAICON</a>(Military AI Competition), as team 'RokafNet' (<a href="https://github.com/RokafNet/rokafnet">model repo</a>)</li>
+      <li><strong>1st</strong> in 2024 Hackathon (With Seoul City) 1st Prize(Seoul Metropolitan City Mayor) </li>
+      <li>2025 UCPC final <strong>Quaified</strong> (<strong>20th</strong> / 60 teams), as team 'ICPCLauncher' (<a href="https://www.acmicpc.net/contest/spotboard/1531">Scoreboard</a>)</li>
     </ul>
 </details>
 <details>
