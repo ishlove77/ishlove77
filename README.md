@@ -9,7 +9,7 @@
       <li><strong>2nd</strong> in 2023 <a href="https://maicon.kr/">MAICON</a>(Military AI Competition), as team 'RokafNet' (<a href="https://github.com/RokafNet/rokafnet">model repo</a>)</li>
       <li><strong>1st</strong> in 2024 Hackathon (With Seoul City) Prize(Seoul Metropolitan City Mayor) </li>
       <li>2025 ICPC Seoul Regional <strong>Quaified</strong> (<strong>23th</strong> / 83 teams), as team 'CPG'(<a href="http://static.icpckorea.net/2025/regional/scoreboard/">Scoreboard</a>)</li>
-      <li><strong>1st</strong> in 2025 SNU FastMRI Challenge, as team 'SNUNet'</li>  
+      <li><strong>1st</strong> in 2025 SNU FastMRI Challenge, as team 'SNUNet'(<a href="https://bespoke-douhua-7b42a9.netlify.app">Scoreboard</a>)</li></li>  
     </ul>
 </details>
 <details>
